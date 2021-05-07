@@ -1,8 +1,8 @@
-## :grin: Knowledge at all times
+# Hi there! 😁
 
-I am focused on web development with HTML5, CSS3 and JavaScript.
+A student passionate about programming language and focused on web development with React / Next and TypeScript.
 
-## :rocket: Direction to the expected destination
-
-I am specializing in creating web applications with ReactJS.
-
+<p>
+  <img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fjonathaalvess1" alt="perfil twitter" /> &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/twitter/url?label=LinkedIn&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjonathan-alves-5b27551a8%2F" alt="perfil linkedin" />
+</p>
