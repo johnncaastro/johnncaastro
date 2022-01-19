@@ -4,8 +4,8 @@ A front-end developer in the process of specializing in web applications with Re
 
 <div align="center">
   <a href="https://github.com/johnncastro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=johnncastro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnncastro&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=johnncastro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnncastro&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <div style="display: inline_block"><br>
