@@ -1,6 +1,10 @@
 # Jonathan Castro
 
-A front-end developer in the process of specializing in web applications with React.
+Currently I work as an electronics technician in a distributor of electronic security materials. There I learned to work with several products, each with a different set of features. This opportunity sparked me more interest in technology than I already had.
+
+I'm scheduling programming in the web development area, as I intend to migrate from the area in the future. My goal is to be able to deliver value wherever I am, updating and teaching day after day, also updated with the programming community.
+
+#neverwalllearning 🚀
 
 <div align="center">
   <a href="https://github.com/johnncastro">
