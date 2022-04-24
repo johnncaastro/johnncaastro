@@ -1,10 +1,10 @@
-# Jonathan Castro
+# Jonathan Alves
 
-Currently I work as an electronics technician in a distributor of electronic security materials. There I learned to work with several products, each with a different set of features. This opportunity sparked me more interest in technology than I already had.
+Hi! I am 26 years old and currently work as an electronics technician at a distributor of electronic security materials. There I learned to work with various products, each with a different set of features. This opportunity sparked me more interest in technology than I ever had.
 
-I'm scheduling programming in the web development area, as I intend to migrate from the area in the future. My goal is to be able to deliver value wherever I am, updating and teaching day after day, also updated with the programming community.
+I took a technical course in Information Technology at the State Technical School in Recife and identified myself with the area of ​​web development. I'm creating projects for the web with ReactJS, as I intend to migrate from the area in the future. My goal is to be able to deliver value wherever I am, help the programming community and always be patiently leveling up.
 
-#neverwalllearning 🚀
+#neverstoplearning 🚀
 
 <div align="center">
   <a href="https://github.com/johnnalves">
