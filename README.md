@@ -1,8 +1,11 @@
 # Jonathan Alves
 
-Hi! I am 26 years old and currently work as an electronics technician at a distributor of electronic security materials. There I learned to work with various products, each with a different set of features. This opportunity sparked me more interest in technology than I ever had.
+Migrando com sucesso da área de eletrônica para programação como desenvolvedor web usando as tecnologias ReactJS e TypeScript, onde ampliei meu interesse por inovação.
 
-I took a technical course in Information Technology at the State Technical School in Recife and identified myself with the area of ​​web development. I'm creating projects for the web with ReactJS, as I intend to migrate from the area in the future. My goal is to be able to deliver value wherever I am, help the programming community and always be patiently leveling up.
+Formação técnica em Tecnologia da Informação na Escola Técnica Estadual do Recife, onde aprofundei meus conhecimentos em ReactJS e TypeScript.
+
+Meu objetivo é poder contribuir com o crescimento de uma empresa entendendo seus ideais e propósitos, bem como contribuir de alguma forma com o crescimento de outras pessoas que queiram entrar na área.
+
 
 #neverstoplearning 🚀
 
