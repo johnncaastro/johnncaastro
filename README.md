@@ -2,8 +2,6 @@
 
 Migrando com sucesso da área de eletrônica para programação como desenvolvedor web usando as tecnologias ReactJS e TypeScript, onde ampliei meu interesse por inovação.
 
-Formação técnica em Tecnologia da Informação na Escola Técnica Estadual do Recife, onde aprofundei meus conhecimentos em ReactJS e TypeScript.
-
 Meu objetivo é poder contribuir com o crescimento de uma empresa entendendo seus ideais e propósitos, bem como contribuir de alguma forma com o crescimento de outras pessoas que queiram entrar na área.
 
 
