@@ -1,4 +1,4 @@
-# Jonathan Alves
+# Jonathan Castro Alves
 
 Migrando com sucesso da área de eletrônica para programação como desenvolvedor web usando as tecnologias ReactJS e TypeScript, onde ampliei meu interesse por inovação.
 
