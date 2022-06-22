@@ -1,8 +1,10 @@
 # Jonathan Castro Alves
 
-Migrando com sucesso da área de eletrônica para programação como desenvolvedor web usando as tecnologias ReactJS e TypeScript, onde ampliei meu interesse por inovação.
+Desenvolvedor front-end com 2 anos de experiência em desenvolvimento web
 
-Meu objetivo é poder contribuir com o crescimento de uma empresa entendendo seus ideais e propósitos, bem como contribuir de alguma forma com o crescimento de outras pessoas que queiram entrar na área.
+Criei projetos com React, TypeScript, Sass, Styled-components, integração com API's públicas e autenticação com Google
+
+Tenho interesse em melhorar minhas habilidades trabalhando em grupo e contribuindo para a comunidade de programação.
 
 
 #neverstoplearning 🚀
