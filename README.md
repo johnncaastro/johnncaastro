@@ -1,11 +1,14 @@
 # Jonathan Castro Alves
 
-Desenvolvedor front-end com 2 anos de experiência em desenvolvimento web
+Técnico na área de Desenvolvimento de Sistemas pela Escola Técnica Estadual Advogado Gil Rodrigues
 
-Criei projetos com React, TypeScript, Sass, Styled-components, integração com API's públicas e autenticação com Google
+Estou migrando com sucesso da área de eletrônica para a área de programação
 
-Tenho interesse em melhorar minhas habilidades trabalhando em grupo e contribuindo para a comunidade de programação.
+Atualmente focado em React e React Native
 
+Criei projetos pessoais no GitHub (https://github.com/johnncaastro/) com as seguintes tecnologias:
+
+React, React Native, TypeScript, Tailwindcss e Sass
 
 #neverstoplearning 🚀
 
