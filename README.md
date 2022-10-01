@@ -6,10 +6,6 @@ Estou migrando com sucesso da área de eletrônica para a área de programação
 
 Atualmente focado em React e React Native
 
-Criei projetos pessoais no GitHub (https://github.com/johnncaastro/) com as seguintes tecnologias:
-
-React, React Native, TypeScript, Tailwindcss e Sass
-
 #neverstoplearning 🚀
 
 <div align="center">
