@@ -2,9 +2,11 @@
 
 Técnico na área de Desenvolvimento de Sistemas pela Escola Técnica Estadual Advogado Gil Rodrigues
 
-Estou migrando com sucesso da área de eletrônica para a área de programação
+Programador com muito amor pelo desenvolvimento web
 
-Atualmente focado em React e Nextjs
+Em busca da primeira oportunidade em programação para o contínuo aperfeiçoamento
+
+Atualmente focado em JavaScript, Nextjs & TypeScript
 
 #neverstoplearning 🚀
 
