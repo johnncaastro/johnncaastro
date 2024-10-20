@@ -13,7 +13,7 @@
 
 ## Minhas habilidades
 
-#### Stack principal:
+#### Tecnologias:
 
 ![Reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Nextjs](https://img.shields.io/badge/Next-14354C?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
@@ -33,6 +33,13 @@
 ![VScode](https://img.shields.io/badge/VSCode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![Vercel](https://img.shields.io/badge/Vercel-E44C30?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
+
+#### Habilidades comportamentais:
+- Trabalho em equipe
+- Motivação
+- Criatividade
+- Resolução de problemas
+- Adaptabilidade
 
 &nbsp;
 &nbsp;
